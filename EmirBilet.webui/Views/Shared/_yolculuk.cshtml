@@ -1,0 +1,20 @@
+﻿@model Guzergah
+
+<div class="card mb-4 mt-3 shadow">
+    
+    <div class="card-body">
+        <a class="card-title" asp-controller="Yolculuk" asp-action="Details" asp-route-id="@Model.GuzergahId" style="text-decoration:none; font-size:24px;">@Model.Baslangic <i class="fas fa-long-arrow-alt-right"></i> @Model.Bitis</a>
+        <p class="card-text"><b style="font-size:19px;">Güzergah:</b>  @Model.Baslangic > @Model.gz1 > @Model.gz2 > @Model.gz3 > @Model.Bitis</p><br />
+
+        <p style=" font-size:24px; text-align:center;">
+            <b>@Model.Tarih </b>
+            - @Model.Saat
+        </p>
+
+        
+    </div>
+    <div class="card-footer text-center">
+        <a asp-controller="Yolculuk" asp-action="Details" asp-route-id="@Model.GuzergahId" class="btn btn-primary btn-sm">İncele</a>
+        
+    </div>
+</div>   

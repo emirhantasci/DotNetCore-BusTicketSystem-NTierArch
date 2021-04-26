@@ -1,0 +1,15 @@
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\bin\Debug\netcoreapp3.1\emirbilet.data.deps.json
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\bin\Debug\netcoreapp3.1\emirbilet.data.runtimeconfig.json
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\bin\Debug\netcoreapp3.1\emirbilet.data.runtimeconfig.dev.json
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\bin\Debug\netcoreapp3.1\emirbilet.data.dll
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\bin\Debug\netcoreapp3.1\emirbilet.data.pdb
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\bin\Debug\netcoreapp3.1\emirbilet.entity.dll
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\bin\Debug\netcoreapp3.1\emirbilet.entity.pdb
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\obj\Debug\netcoreapp3.1\emirbilet.data.csprojAssemblyReference.cache
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\obj\Debug\netcoreapp3.1\emirbilet.data.AssemblyInfoInputs.cache
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\obj\Debug\netcoreapp3.1\emirbilet.data.AssemblyInfo.cs
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\obj\Debug\netcoreapp3.1\emirbilet.data.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\obj\Debug\netcoreapp3.1\emirbilet.data.csproj.CopyComplete
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\obj\Debug\netcoreapp3.1\emirbilet.data.dll
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\obj\Debug\netcoreapp3.1\emirbilet.data.pdb
+C:\Users\emirh\Desktop\emirbilet\emirbilet.data\obj\Debug\netcoreapp3.1\emirbilet.data.genruntimeconfig.cache

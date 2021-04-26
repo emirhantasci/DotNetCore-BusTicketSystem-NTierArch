@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "emirbilet.business", "emirbilet.business.csproj", "{37F21E7F-D381-42B1-A505-2A4F994CB07E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F21E7F-D381-42B1-A505-2A4F994CB07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F21E7F-D381-42B1-A505-2A4F994CB07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F21E7F-D381-42B1-A505-2A4F994CB07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F21E7F-D381-42B1-A505-2A4F994CB07E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E9FE81-6F12-4406-87BD-F19BD0941152}
+	EndGlobalSection
+EndGlobal

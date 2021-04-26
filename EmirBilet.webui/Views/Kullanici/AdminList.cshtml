@@ -1,0 +1,53 @@
+﻿@model BiletGuzergah
+
+
+
+<div class="row">
+    <div class="col-md-12">
+        <h1 class="h3"> Bilet Kontrol</h1> <hr /> <br />
+        <table class="table table table-bordered shadow-sm mt-3">
+            <thead>
+                <tr>
+                    <th style="width:20px;">BiletID</th>
+                    <th style="width:145px;">Ad - Soyad</th>
+                    <th style="">Mail</th>
+                    <th style="width:25px;">Başlangıç</th>
+                    <th style="width:25px;">Bitiş</th>
+                    <th style="width:70px;">KoltukNo</th>
+                    <th style="width:80px;">Fiyat</th>
+                    <th style="width:85px;">GüzergahNo</th>
+                    <th style="width:165px;">İptal</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Bilets.Count>0)
+                {
+                    @foreach (var item in Model.Bilets)
+                    {
+                        <tr>
+                            <td>@item.BiletId</td>
+                            <td>@item.Ad @item.Soyad</td>
+                            <td>@item.Mail</td>
+                            <td>@item.Nereden</td>
+                            <td>@item.Nereye</td>
+                            <td>@item.KoltukNo</td>
+                            <td>@item.Fiyat ₺</td>
+                            <td>@item.GuzergahId</td>
+                            <td>
+                                <form action="/kullanici/iptalbilet" method="POST" style="display:inline;">
+                                    <input type="hidden" name="biletId" value="@item.BiletId" />
+                                    <button type="submit" class="btn btn-danger btn-md mr-2" style="color: white;">Bileti İptal Et</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <p>Sistemde henüz kayıtlı bilet yok!</p>
+                }
+            </tbody>
+            
+        </table>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\bin\Debug\netcoreapp3.1\emirbilet.business.deps.json
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\bin\Debug\netcoreapp3.1\emirbilet.business.dll
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\bin\Debug\netcoreapp3.1\emirbilet.business.pdb
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\bin\Debug\netcoreapp3.1\emirbilet.data.dll
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\bin\Debug\netcoreapp3.1\emirbilet.entity.dll
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\bin\Debug\netcoreapp3.1\emirbilet.data.pdb
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\bin\Debug\netcoreapp3.1\emirbilet.entity.pdb
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\obj\Debug\netcoreapp3.1\emirbilet.business.csprojAssemblyReference.cache
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\obj\Debug\netcoreapp3.1\emirbilet.business.AssemblyInfoInputs.cache
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\obj\Debug\netcoreapp3.1\emirbilet.business.AssemblyInfo.cs
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\obj\Debug\netcoreapp3.1\emirbilet.business.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\obj\Debug\netcoreapp3.1\emirbilet.business.csproj.CopyComplete
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\obj\Debug\netcoreapp3.1\emirbilet.business.dll
+C:\Users\emirh\Desktop\emirbilet\emirbilet.business\obj\Debug\netcoreapp3.1\emirbilet.business.pdb

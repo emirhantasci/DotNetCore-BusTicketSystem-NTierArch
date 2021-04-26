@@ -1,0 +1,9 @@
+C:\Users\emirh\Desktop\emirbilet\emirbilet.entity\bin\Debug\netcoreapp3.1\emirbilet.entity.deps.json
+C:\Users\emirh\Desktop\emirbilet\emirbilet.entity\bin\Debug\netcoreapp3.1\emirbilet.entity.dll
+C:\Users\emirh\Desktop\emirbilet\emirbilet.entity\bin\Debug\netcoreapp3.1\emirbilet.entity.pdb
+C:\Users\emirh\Desktop\emirbilet\emirbilet.entity\obj\Debug\netcoreapp3.1\emirbilet.entity.AssemblyInfoInputs.cache
+C:\Users\emirh\Desktop\emirbilet\emirbilet.entity\obj\Debug\netcoreapp3.1\emirbilet.entity.AssemblyInfo.cs
+C:\Users\emirh\Desktop\emirbilet\emirbilet.entity\obj\Debug\netcoreapp3.1\emirbilet.entity.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\emirbilet\emirbilet.entity\obj\Debug\netcoreapp3.1\emirbilet.entity.dll
+C:\Users\emirh\Desktop\emirbilet\emirbilet.entity\obj\Debug\netcoreapp3.1\emirbilet.entity.pdb
+C:\Users\emirh\Desktop\emirbilet\emirbilet.entity\obj\Debug\netcoreapp3.1\emirbilet.entity.csprojAssemblyReference.cache
